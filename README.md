@@ -1,6 +1,6 @@
 # Starcraft web icons (font-awesome style)
 
-These are just for fun.  Use them in the same way you'd use font-awesome (copy the "fonts" subdirectory, and include the css file).
+Made using Icomoon (http://icomoon.io/app/).  These are just for fun.  Use them in the same way you'd use font-awesome (copy the "fonts" subdirectory, and include the css file).
 
 ![Zerg](screenshots/icons.png)
 
